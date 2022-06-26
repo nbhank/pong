@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Will/Downloads/Pong/Pong/Content/Music/applause1.wav</SourceFile>
+  <SourceTime>2012-10-29T20:01:52-04:00</SourceTime>
+  <DestFile>C:/Users/Will/Downloads/Pong/Pong/Content/bin/Windows/Music/applause1.xnb</DestFile>
+  <DestTime>2018-01-02T20:22:38.4701833-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
